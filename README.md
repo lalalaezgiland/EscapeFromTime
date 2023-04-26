@@ -15,6 +15,7 @@ Hedef Kitle / Target Audience
 •	Bu nedenle, hedef kitlesi, 10-16 yaş arası genç oyuncuları kapsayabileceği gibi, platformer ve quiz oyunlarından hoşlanan, her yaş grubundan oyuncuları da içerebilir.
 
 Oyuncu Deneyimi ve Oyun Bakış Açısı / Player Experience and Game POV
+
 •	Oyuncu, bir saat üzerinde koşan bir karakteri kontrol ederek, akrep ve yelkovana yaklaşırken karşılaşacağı engelleri aşmaya ve bilgi sorularını cevaplamaya çalışan bir oyuncudur.
 •	Oyunun bir saat gibi görünen bir platform üzerindedir. Oyun içindeki diğer detaylar, engeller ve sorular, bu platform üzerinde ortaya çıkacaktır.
 •	Oyun, oyuncuya fantastik bir macera sağlıyor. Bir saat üzerinde koşmak gibi bir ilginç konsept, oyuncuların gerçek dünyada yapamayacakları bir şeyi deneyimlemelerine olanak tanır.
@@ -22,25 +23,35 @@ Oyuncu Deneyimi ve Oyun Bakış Açısı / Player Experience and Game POV
 •	Oyuncunun ilgisini, hızlı tempolu oyun deneyimi, engelleri aşma, bilgi sorularını cevaplama ve yüksek puanlar ve liderlik tablosunda üst sıralara yükselme gibi unsurlar çekecektir. Oyunun farklı düzeyleri ve zorlukları da oyuncuların ilgisini çekecek ve oyunu tamamlama hedefi için teşvik edecektir.
 
 Görsel ve Seslendirme Stilleri / Visual and Audio Style
+
 What is the “look and feel” of the game? How does this support the desired player’s experience? What concept art or reference art can you show to give the feel of the game?
 
 Oyun Dünyası Kurgusu / Game World Fiction
+
 Oyun dünyası, oyuncuların bir saat gibi görünen platformda koşarak ilerledikleri bir dünyadır. Oyuncular, akrep ve yelkovanın bulunduğu saat yüzeyinde koşarak ilerlerler ve ilerledikçe bilgi sorularıyla karşılaşırlar. Oyunun hikayesi doğrudan sunulmayabilir ancak oyuncuların amacı saatte mümkün olduğunca ilerlemek ve mümkün olduğunca çok soruyu doğru yanıtlamaktır.
 
 Platform(lar), Teknoloji ve Kapsam (özet)/ Platform(s), Technology, and Scope (brief)
+
 Oyun mobil cihazlar/PC için tasarlanmıştır. 3D bir platform oyunudur. Oyunun geliştirilmesinde C# ve Unity kullanılmıştır. Oyun 5 kişilik bir ekiple geliştirilmektedir ve 2 gün içinde hazır olması planlanmaktadır.
+
 Oyunun Ana Döngüsü / Core Loops
+
 Bu oyun için ana döngü, oyuncunun zamanı kontrol ederek ilerlemesidir. Bu ilerleme sırasında oyuncu, akrepleri ve yelkovana doğru ilerlerken karşılaştığı engelleri aşmak için zıplama, kayma ve koşma gibi temel hareketler yapar. Oyuncu ayrıca, bilgi sorularını cevaplayarak oyunda ilerleyebilir ve daha yüksek puanlar alabilir. Core loop, oyuncunun bu hareketleri tekrarlayarak oyun dünyası ile etkileşimde bulunması ve hedeflerine ulaşmak için ilerlemesi üzerine kuruludur. Oyunun tekrar oynanabilirliğini arttırmak için, oyunun farklı seviyelerinde oyuncunun karşılaşacağı engeller ve sorular farklılaştırılabilir. Ayrıca, oyuncunun elde ettiği yüksek puanlar ve başarılar gibi ödüller, oyuncuların daha fazla tekrar oynamasını teşvik etmek için kullanılabilir. Oyuncu, Escape From Time karakterini kontrol ederek akrep ve yelkovan işaretleri arasında ilerlerken, bilgi sorularını yanıtlayarak puan kazanır. Kazanılan puanlar, oyuncunun oyuna devam edebilmesi ve daha yüksek bir skor elde etmesi için önemlidir.
 
-Neden bu etkileyicidir?: Bu oyun, oyuncunun hızlı düşünmesini, reflekslerini geliştirmesini ve genel kültür bilgisini kullanmasını gerektirir. Bu, oyuncunun zihinsel ve fiziksel becerilerini geliştirmesine yardımcı olur ve bu nedenle oyuncuyu oynamaya teşvik eder.
+Neden bu etkileyicidir?:
+Bu oyun, oyuncunun hızlı düşünmesini, reflekslerini geliştirmesini ve genel kültür bilgisini kullanmasını gerektirir. Bu, oyuncunun zihinsel ve fiziksel becerilerini geliştirmesine yardımcı olur ve bu nedenle oyuncuyu oynamaya teşvik eder.
 
-Oyuncu hedeflerini nasıl destekler?: Oyuncu, yüksek bir skor elde etmek için mümkün olduğunca çok soruyu doğru cevaplamalı ve mümkün olduğunca uzun süre hayatta kalmalıdır. Bu hedefleri desteklemek için, oyuncunun yüksek puanlar elde etmesi ve oyuna devam etmesi için gerekli olan puanlar kazanması gerekmektedir.
+Oyuncu hedeflerini nasıl destekler?:
+Oyuncu, yüksek bir skor elde etmek için mümkün olduğunca çok soruyu doğru cevaplamalı ve mümkün olduğunca uzun süre hayatta kalmalıdır. Bu hedefleri desteklemek için, oyuncunun yüksek puanlar elde etmesi ve oyuna devam etmesi için gerekli olan puanlar kazanması gerekmektedir.
 
-Hangi olası sonuçlar bekleniyor/umuluyor?: Oyun, oyuncuların genel kültür bilgilerini artırmasına yardımcı olabilir ve reflekslerini ve zihinsel becerilerini geliştirebilir.
+Hangi olası sonuçlar bekleniyor/umuluyor?:
+Oyun, oyuncuların genel kültür bilgilerini artırmasına yardımcı olabilir ve reflekslerini ve zihinsel becerilerini geliştirebilir.
 
-F2P ise, nerede para kazanma noktaları?: Oyunun F2P (ücretsiz oynanabilen) bir modelle yayınlanması durumunda, oyun içi satın alımlar veya reklam gelirleri gibi farklı para kazanma yöntemleri kullanılabilir. Örneğin, oyunculara ekstra hayatlar veya joker soruları için ödeme yapma seçeneği sunulabilir.
+F2P ise, nerede para kazanma noktaları?:
+Oyunun F2P (ücretsiz oynanabilen) bir modelle yayınlanması durumunda, oyun içi satın alımlar veya reklam gelirleri gibi farklı para kazanma yöntemleri kullanılabilir. Örneğin, oyunculara ekstra hayatlar veya joker soruları için ödeme yapma seçeneği sunulabilir.
 
 Hedefler ve İlerleme / Objectives and Progression
+
 Escape From Time oyununda, oyuncu başlangıçta oyuna giriş yapar yapmaz, bir eğitim aşamasından geçer ve oyunun temel kontrol mekanikleri ve hedefleri hakkında bilgi edinir. Oyuncunun amacı, ilerleyen seviyelerde Escape From Timenu engellerden ve düşmanlardan kaçırarak ilerletmek ve her seviyede karşılaşacağı bilgi sorularını cevaplayarak yüksek puanlar elde etmektir.
 
 Oyunda kısa dönemli hedefler, her seviyenin sonunda oyuncunun karşılaştığı zorlu bir bilgi sorusu ve bir sonraki seviyeye geçiş hedefleri gibi hedefler içerebilir. Uzun vadeli hedefler ise, oyuncunun oyunda ilerledikçe daha yüksek puanlar elde etmek, liderlik tablolarında en iyi skorları elde etmek ve ilerlemenin kilidini açmak için gerekli olan ilerleme puanlarını toplamaktır.
@@ -68,10 +79,5 @@ Oyuncu anlık olarak, karakteri kontrol eder, soruları cevaplar, düşmanlardan
 
 Oyunun ana kullanıcı arayüzü, karakterin hareket ettiği ve soruların çıktığı dünya ile birlikte görüntülenen bir arayüzdür. Oyuncunun ilerlemesini, puanlarını ve diğer önemli bilgileri takip etmesini sağlayan bir puan tablosu veya skor ekranı vardır. Oyunun ana kullanıcı arayüzünün profesyonel görünümlü bir taslağı, oyunun ana özelliklerini daha iyi anlamak için faydalı olabilir.
 
-Oyun Geliştiricileri & Tasarımcıları
-Game Developer – Beyazıt Kargı
-Game Developer & 3D Artist – Emirhan Şahin
-Game Artist – Esra Mermer
-Game Designer – Ezgi Balkanoğlu
-Game Developer – Sena Yıldız 
+
 
